@@ -1,9 +1,9 @@
 {
-  "greeting": "Pranam 💖🙏",
-  "name": "Mama Ji",
+  "greeting": "Hi",
+  "name": "Mohit 👋👨‍💻",
 
   "wishText": "May the smile on your face stay forever",
-  "imagePath": "img/photo.jpg",
+  "imagePath": "img/mohit_photo.jpg",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
@@ -15,8 +15,8 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday! Mama ji",
-  "outroText": "From Your Nephew Sarthak!",
+  "wishHeading": "Happy Birthday:) :)Mohit",
+  "outroText": "wish you a long & happy life",
   "replayText": "click here, if you want to watch it again.",
   "outroSmiley": ":)"
 }
