@@ -48,14 +48,14 @@ body {
   height: auto;
 }
 
-.two {
+/* .two {
   font-size: 1.2rem;
   font-weight: lighter;
-}
+} */
 
-.three {
+/* .three {
   font-size: 3rem;
-}
+} */
 
 .four .text-box {
   width: 600px;
@@ -282,6 +282,7 @@ body {
   .six .hat {
     width: 50px;
     top: -20px;
+    left: 8rem;
   }
 
   .wish-hbd {
